@@ -1,0 +1,3 @@
+/home/sorer/Programming/Computer Science/Freshman/Semester 2/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sorer/Programming/Computer Science/Freshman/Semester 2/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sorer/Programming/Computer Science/Freshman/Semester 2/untitled/cmake-build-debug/CMakeFiles/untitled.dir
